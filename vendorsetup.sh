@@ -1,1 +1,0 @@
-add_lunch_combo aicp_r7sf-userdebug
